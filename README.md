@@ -7,7 +7,7 @@
 此项目为学习Vue时做的一个带有后端网络请求的前端综合项目，自己给自己布置的结课作业，后端用mock模拟，后面再学Java和SpringBoot。
 
 <p align="center">
-  <a href="https://github.com/Son4ta/Picture-Processing-with-GUI/">
+  <a href="https://github.com/Son4ta/Vue-Learning-Project/">
     <img src="demo.png" alt="Demo" width="80" height="80">
   </a>
 </p>
