@@ -1,0 +1,30 @@
+/* 登录和注册的样式 */
+#login {
+  overflow: hidden;
+  background-color: rgb(111, 111, 111);
+  height: 100%;
+}
+.demo-ruleForm {
+  width: 70%;
+  margin: 0 auto;
+}
+.demo-ruleForm lable{
+  display: block;
+  margin-bottom: 3px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+}
+a {
+  color: #409EFF;
+  text-decoration: none;
+  float: right;
+}
+.box-card {
+  padding: auto;
+  margin: 100px auto;
+  width: 40%;
+  height: auto;
+}
+#strength span{
+  
+}
