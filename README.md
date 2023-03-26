@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Son4ta/Vue-Learning-Project/">
-    <img src="demo.png" alt="Demo" width="80" height="80">
+    <img src="demo.png" alt="Demo">
   </a>
 </p>
 
